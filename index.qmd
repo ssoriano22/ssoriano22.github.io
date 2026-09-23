@@ -1,5 +1,23 @@
 ---
 title: "Sophia Soriano"
+image: images/SophiaSoriano_headshot.png
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/smsoriano22/
+      target: _blank
+    - text: GitHub
+      href: https://github.com/ssoriano22
+      target: _blank 
+    - text: Email
+      href: mailto:smsoriano277@gmail.com
+format:
+  html:
+    css: styles.css
 ---
 
 Hello, I'm Sophia Soriano (she/her)! Originally from Santa Barbara, CA, I'm an early-career environmental data analyst with a lifelong love of the ocean, both as a swimmer and a scientist. My background spans molecular biology research, silicone chemistry R&D, and cancer diagnostics bioinformatics. I'm currently part of the UCSB MEDS 2027 cohort, excited to bring my computational and scientific skills to challenges in marine conservation, pollution remediation, and sustainability analytics.

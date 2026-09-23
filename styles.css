@@ -1,1 +1,4 @@
 /* css styles */
+.about-image {
+  object-position: top !important;
+}
