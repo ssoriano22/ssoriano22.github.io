@@ -1,0 +1,36 @@
+/*-- scss:defaults --*/
+
+// Colors
+$dark-blue: #274C77;
+$teal: #62a2ac;
+$powder-blue: #9FB4C7;
+$cream: #FDFBF7;
+$gray: #64605f;
+$purple: #4f235d;
+$light-purple: #846B8A;
+$sea-green: #1ca678;
+$black:#070707;
+$red-brown: #2F0601;
+$camel: #C08552;
+$seashell: #F7EBE8;
+$wine_plum: #773344;
+
+// Assign colors
+$navbar-bg: $dark-blue; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $powder_blue; // highlight color when hovering over navbar links
+$body-bg: $cream; // page background
+$body-color: $gray; // page text 
+$footer-bg: $camel; // footer 
+$link-color: $sea-green; // hyperlinks
+
+// Fonts
+// Import Google fonts - Playfair Display and Source Sans 3
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+/*-- scss:rules --*/
+
+h1, h2 {
+  letter-spacing: 1px;
+  font-weight: 600; // Google fonts tells you which weights your chosen font family allows for!
+}

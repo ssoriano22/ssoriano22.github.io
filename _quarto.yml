@@ -5,18 +5,22 @@ project:
 website:
   title: "Sophia Soriano"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
       - resources.qmd
+  page-footer:
+    #background: light # or `dark` or omit this option altogether (footer color will match page body color)
+    left: Copyright 2026, Sophia Soriano
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/ssoriano22/ssoriano22.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
     theme:
-      light: yeti
-      dark: solar
-    css: styles.css
+     - yeti
+     - styles.scss # I've also removed the `css: styles.css` option that was included by default, since I'll be writing all my sass and css in this single styles.scss file
+    mainfont: Playfair Display
     toc: true
     page-layout: full
 
