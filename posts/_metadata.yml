@@ -1,0 +1,12 @@
+# Only re-render blog post when source changes
+freeze: auto
+
+# Makes colored banner title block on each post
+title-block-banner: true
+
+# Author info
+author:
+  - name: Sophia Soriano
+    url: https://ssoriano22.github.io/
+    affiliation: Master of Environmental Data Science Program @ The Bren School
+    affiliation-url: https://ucsb-meds.github.io/

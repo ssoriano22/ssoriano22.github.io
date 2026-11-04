@@ -1,0 +1,33 @@
+---
+title: "My first blog post!"
+description: "A short description that appears on the listing page"
+date: 11-04-2026
+categories: [Quarto, R, MEDS, Geospatial]
+bibliography: references.bib
+citation:
+  url: https://ssoriano22.github.io/posts/2026-11-04-test-blog/
+image: ../../images/ocean.jpeg
+draft: false
+---
+
+### Introduction:
+
+Here is where your blog post content begins...
+
+### Footnote Method 1 - Out-of-line:
+
+I am going to insert a footnote here[^1].
+
+[^1]: Here is the associated footnote text.
+
+### Footnote Method 2 - Inline:
+
+I am going to insert an inline footnote here^[Here is my footnote].
+
+### Code Example:
+
+```{r}
+1+1
+```
+
+This was explored in previous work [@csik2021].

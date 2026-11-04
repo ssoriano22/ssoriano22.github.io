@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - posts.qmd
       - resources.qmd
   page-footer:
     #background: light # or `dark` or omit this option altogether (footer color will match page body color)
