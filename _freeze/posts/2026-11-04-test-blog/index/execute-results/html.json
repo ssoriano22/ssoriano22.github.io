@@ -1,8 +1,8 @@
 {
-  "hash": "7df3e5b72268e465120666e2df790e67",
+  "hash": "b038fa5b138be57fec0466abe12fa27a",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"My first blog post!\"\ndescription: \"A short description that appears on the listing page\"\ndate: 11-04-2026\ncategories: [Quarto, R, MEDS, Geospatial]\nbibliography: references.bib\ncitation:\n  url: https://ssoriano22.github.io/posts/2026-11-04-test-blog/\nimage: ../../images/ocean.jpeg\ndraft: false\n---\n\n### Introduction:\n\nHere is where your blog post content begins...\n\n### Footnote Method 1 - Out-of-line:\n\nI am going to insert a footnote here[^1].\n\n[^1]: Here is the associated footnote text.\n\n### Footnote Method 2 - Inline:\n\nI am going to insert an inline footnote here^[Here is my footnote].\n\n### Code Example:\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nThis was explored in previous work [@csik2021].",
+    "markdown": "---\ntitle: \"My first blog post!\"\ndescription: \"A short description that appears on the listing page\"\ndate: 11-04-2026\ncategories: [Quarto, R, MEDS, Geospatial]\nbibliography: references.bib\ncitation:\n  url: https://ssoriano22.github.io/posts/2026-11-04-test-blog/\nimage: ../../images/ocean.jpeg\ndraft: true\n---\n\n### Introduction:\n\nHere is where your blog post content begins...\n\n### Footnote Method 1 - Out-of-line:\n\nI am going to insert a footnote here[^1].\n\n[^1]: Here is the associated footnote text.\n\n### Footnote Method 2 - Inline:\n\nI am going to insert an inline footnote here^[Here is my footnote].\n\n### Code Example:\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nThis was explored in previous work [@csik2021].",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

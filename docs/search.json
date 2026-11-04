@@ -18,27 +18,6 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "My first blog post!\n\n\n\nQuarto\n\nR\n\nMEDS\n\nGeospatial\n\n\n\nA short description that appears on the listing page\n\n\n\nSophia Soriano\n\n\nNov 4, 2026\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/2026-11-04-test-blog/index.html",
-    "href": "posts/2026-11-04-test-blog/index.html",
-    "title": "My first blog post!",
-    "section": "",
-    "text": "Here is where your blog post content begins…"
-  },
-  {
-    "objectID": "posts/2026-11-04-test-blog/index.html#here-is-where-your-blog-post-content-begins",
-    "href": "posts/2026-11-04-test-blog/index.html#here-is-where-your-blog-post-content-begins",
-    "title": "My first blog post!",
-    "section": "",
-    "text": "Here is where your blog post content begins…\ntitle: “My first blog post!” description: “A short description that appears on the listing page” author: - name: Sophia Soriano url: https://ssoriano22.github.io/ affliliation: Master of Environmental Data Science Program @ The Bren School affiliation-url: https://ucsb-meds.github.io/ date: 11-04-2026 categories: [Quarto, R, MEDS, Geospatial] citation: url: https://ssoriano22.github.io/posts/2026-11-04-test-blog/ image: ../../images/ocean.jpeg draft: false"
-  },
-  {
-    "objectID": "posts/2026-11-04-test-blog/index.html#footnotes",
-    "href": "posts/2026-11-04-test-blog/index.html#footnotes",
-    "title": "My first blog post!",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nHere is the associated footnote text.↩︎\nHere is my footnote↩︎"
+    "text": "No matching items"
   }
 ]

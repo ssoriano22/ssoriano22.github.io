@@ -7,7 +7,7 @@ bibliography: references.bib
 citation:
   url: https://ssoriano22.github.io/posts/2026-11-04-test-blog/
 image: ../../images/ocean.jpeg
-draft: false
+draft: true
 ---
 
 ### Introduction:
